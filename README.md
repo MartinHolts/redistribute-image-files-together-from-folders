@@ -1,0 +1,1 @@
+# redistribute-image-files-together-from-folders
